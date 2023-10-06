@@ -87,8 +87,8 @@ function getUserName(name){
    if(name == null || name == ""){
       username.innerHTML = "Hi Alien!";
       username.style.color = "green";
-   } else if (name.includes('Madhuri')|| name.includes('madhueri')){
-      username.innerHTML = "Hi Dear!";
+   } else if (name.includes('Shefali')|| name.includes('shefali')){
+      username.innerHTML = "Hi, Dear💜";
       username.style.color = "red";
    } 
    else{
